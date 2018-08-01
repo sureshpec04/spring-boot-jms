@@ -4,6 +4,8 @@ Spring Boot 2 JMS sample with Active MQ
 Prerequisites for running the application:
 1. Install the Active MQ in your local machine and make sure it is started.
 2. Start the activemq.bat (windows) from {$activemqinstalldir}/bin/activemq.bat
+3. Active MQ: http://localhost:8161/admin/queues.jsp
+
 
 Active MQ configuration:
 application.yml
